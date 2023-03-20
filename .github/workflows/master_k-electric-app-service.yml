@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'K-electric-App-service'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18883E11B3DB48439CD264DFD6AD6124 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A141C503D7BD4921B0CD76290136C279 }}
           package: .
